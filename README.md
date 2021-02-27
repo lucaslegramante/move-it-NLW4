@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="moveit" title="" src=".github/icons/logo-full.svg" width="220px" />
+  <img alt="moveit" title="" src=".github/logo-full.svg" width="220px" />
 </h1>
 
 <p align="center">
