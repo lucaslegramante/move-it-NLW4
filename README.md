@@ -16,9 +16,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="moveit" title="" src=".github/icons/logo-full.svg" width="100%" />
-</p>
 
 ## 🚀 Tecnologias
 
