@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="moveit" title="" src="./icons/logo-full.svg" width="220px" />
+  <img alt="moveit" title="" src=".github/cons/logo-full.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="moveit" title="" src="./icons/logo-full.svg" width="100%" />
+  <img alt="moveit" title="" src=".github/icons/logo-full.svg" width="100%" />
 </p>
 
 ## 🚀 Tecnologias
