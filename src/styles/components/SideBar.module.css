@@ -1,0 +1,46 @@
+.container{
+    position: absolute;
+    width: 112px;
+    height: 820px;
+    left: 0px;
+    top: 0px;
+    background: var(--white);
+
+    
+    
+}
+
+.header{
+    position: absolute;
+    left: 28.57%;
+    right: 28.57%;
+    top: 3.9%;
+    bottom: 90.98%;
+    
+
+}
+
+.home{
+    position: absolute;
+    width: 72px;
+    height: 56px;
+
+    top: 350px;
+    left: 28.57%;
+    right: 28.57%;
+    bottom: 90.98%;
+    border: 0;
+}
+
+.ranks {
+    position: absolute;
+    width: 72px;
+    height: 56px;
+    left: 0px;
+    top: 422px;
+    left: 28.57%;
+    right: 28.57%;
+    bottom: 90.98%;
+
+
+}
